@@ -1,9 +1,3 @@
-Since you want to replace the existing `README.md` with the updated version, you can manually copy the following content and paste it into your `README.md` file on GitHub.
-
-Here’s the enhanced content:
-
----
-
 # 🌟 **DOJOTOOLS - SRT Translator** 🌟  
 
 DOJOTOOLS is your ultimate solution for translating SRT subtitle files with precision and speed. Powered by the **DeepL API**, it offers a seamless and intuitive experience for creators, editors, and professionals. Translate subtitles into **30+ languages** effortlessly, with advanced features that ensure accuracy and a smooth workflow.  
