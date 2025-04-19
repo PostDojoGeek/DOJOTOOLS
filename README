@@ -1,0 +1,50 @@
+=======================================
+             DOJO TOOLS
+=======================================
+
+A professional subtitle translation assistant for creators, studios, and post-production workflows.
+Powered by DeepL, Google Sheets validation, and a seamless GUI experience.
+
+Developed by: Max Schaeffer & Post Dojo  
+Version: 1.0.0  
+Website: https://postdojo.mx  
+Installer Created: [Insert Date Here]
+
+---------------------------------------
+             FEATURES
+---------------------------------------
+✔ Translate multiple .SRT subtitle files at once  
+✔ Support for 30+ languages via DeepL  
+✔ Spellcheck and error detection in translated subtitles  
+✔ User-friendly GUI with loading animations and gradients  
+✔ Google Sheets key validation for secure access  
+✔ Auto-update check with future version control  
+✔ Dark mode interface for true professionals  
+
+---------------------------------------
+        INSTALLATION INSTRUCTIONS
+---------------------------------------
+1. Double-click the DojoToolsInstaller.exe file.  
+2. Follow the installation steps:  
+   - Accept the license agreement  
+   - Choose your installation directory  
+   - (Optional) Create desktop and Start Menu shortcuts  
+3. Once complete, launch Dojo Tools from your shortcut or Start Menu.  
+4. On first launch, enter your license key or validate with your system ID.  
+
+---------------------------------------
+          SYSTEM REQUIREMENTS
+---------------------------------------
+• Windows 10 or higher (64-bit)  
+• Python NOT required — this installer includes all dependencies  
+• Internet connection required for DeepL translation  
+
+---------------------------------------
+         LICENSE & CREDITS
+---------------------------------------
+All rights reserved © 2025  
+Developed by Max Schaeffer & Post Dojo  
+This software is distributed for educational and professional use.  
+Do not redistribute or reverse-engineer without explicit permission.
+
+For support, visit: https://postdojo.mx/contact-us
